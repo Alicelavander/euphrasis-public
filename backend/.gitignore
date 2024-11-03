@@ -1,0 +1,6 @@
+__pycache__/
+.DS_Store
+
+ml/lp_music_caps/lpmc/music_captioning/exp/transfer/lp_music_caps/transfer.pth
+res.mp3
+app/input.mp3
